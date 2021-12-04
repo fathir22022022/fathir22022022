@@ -311,7 +311,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 
-#####USSETV#####
+#####MUSIK#####
 
 
 
@@ -321,7 +321,7 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
 
 
-#EXTINF:-1
+###KOREA##
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="Korea TV", K Plus
@@ -539,55 +539,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png" group-title="MOVIES", (DP)  FOX FAMILY HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="MOVIES", (DP)  FOX HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES", (DP)  FOX MOVIES HD _VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES", (DP)  FOX LIFE HD _VN
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies-us.png" group-title="MOVIES", (DP)  MOVIE _GROUP
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hG5LsHpG/images-2.jpg" group-title="MOVIES",  (Dian Photograph) SKY CINEMA DISNEY
-http://stream.tvtap.live:8081/live/mdisney.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSRBY7K7/images-3.jpg" group-title="MOVIES",  (Dian Photograph) SKY CINEMA ACTION HD
-http://stream.tvtap.live:8081/live/maction.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  ZQ DRAMA _GROUP
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-classic-in.png" group-title="MOVIES", (DP)  ZEE CLASSIC HD _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES", (DP)  ZEE CINEMA _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="MOVIES", (DP)  ZEE CAFE _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  &PRIVE _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES", (DP)  &FLIX _GROUP
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES", (DP)  FOX MOVIES HD MAY
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES", (DP)  HBO HD MAY
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-
-
-
-#EXTINF:-1
+###MALAY_PRO###
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MALAY_PRO",FoxActionMovies
@@ -761,12 +713,7 @@ http://45.126.83.51/uq2663/h/h143/index.m3u8
 
 #EXTINF:-1
 
-
-
-#EXTINF:-1
-
-
-#####Entertainment#####
+#####KNOWLEDGE#####
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" group-title="KNOWLEDGE",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -840,14 +787,6 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1
-
-##### KIDS #####
-
-
-
-#EXTINF:-1
-
-
 
 ##### MALAYSIA #####
 
@@ -1389,8 +1328,6 @@ http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/8682
 
 
 
-
-
 ####SPORTS 2####
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="SPORTS 2",RMC Sport 1
@@ -1710,69 +1647,8 @@ http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg"group-title="EURO",Astro Sport 2
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tv-name="Trans7" tvg-logo="https://i.postimg.cc/QdrPbnFZ/Trans7.png" group-title="Nasional",Trans7
-http://rr2.dens.tv/s/s101/01.m3u8
 
-#EXTINF:-1 tv-name="MNCTV" tvg-logo="https://i.postimg.cc/nhgL8yCX/Mnctv.png" group-title="Nasional", MNCTV
-http://gpc.my.id/vidio/mnc.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK62mFS/Transtv.png" tvg-name" TRANS TV" group-title="Nasional", TRANS TV
-http://rr3.dens.tv/s/s72/01.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/636gM3tn/Indosiar.png" group-title="Nasional", INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
- 
-#EXTINF:-1 tv-name="ANTV" tvg-logo="https://i.postimg.cc/Qtthns39/ANTV.png" group-title="Nasional", ANTV 
-http://rr2.dens.tv/s/s07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDth17h5/RCTI.png" group-title="Nasional", RCTI
-http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-http://gpc.my.id/vidio/rcti.m3u8
- 
-#EXTINF:-1 tv-name="SCTV" tvg-logo="https://i.postimg.cc/3xYRCsdp/SCTV.png" group-title="Nasional", SCTV 
-http://rr2.dens.tv/s/s03/01.m3u8
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTQq85nq/GTV-LOGO.png" group-title="Nasional", GTV 
-http://gpc.my.id/vidio/gtv.m3u8
-http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
- 
-#EXTINF:-1 tv-name="Net Tv" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13", Net TV
-http://rr2.dens.tv/s/s08/01.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef
- 
-#EXTINF:-1 tv-name="RTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="Nasional" , RTV 
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1 tv-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="Berita" , TVRI 
-http://rr2.dens.tv/s/s11/01.m3u8
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
- 
-#EXTINF:-1 tv-name="Metro TV" tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="Berita", METRO TV 
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/659JHtf9/inews-logo.png" group-title="Berita", iNews 
-http://gpc.my.id/vidio/inews.m3u8
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYdPvbtJ/TVONE.png" group-title="Berita", TVOne 
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
- 
-#EXTINF:-1 tv-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13", Kompas TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="Berita", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
- 
-#EXTINF:-1 tv-name="Berita Satu" tvg-logo="https://i.postimg.cc/7L51zWGx/logo.jpg" group-title="Berita", BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzJZyJfM/Logo-CNBC.jpg" group-title="Berita", CNBC INDONESIA 
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHrs0fbk/JG.jpg", JAKARTA GLOBE
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+##NASIONAL##
 
 
 ###LOKAL###
@@ -1939,18 +1815,22 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradrama&bandwidth=default&sync=
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN.pl" group-title="Drama",TVN
 http://rr1.dens.tv/h/h20/01.m3u8
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
-http://gpc.my.id/vidio/tvn.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png" group-title="Anak", animasi
+http://gpc.my.id/vidio/tvn.m3u
+
+## Cartoon_Network###
+
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png" group-title="Cartoon Network", animasi
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="Kids",Aniplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="Cartoon Network",Aniplus
 http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png" group-title="Anak", Jaringan kartun
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon Network", Jaringan kartun
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1920px-Disney_Junior.svg.png" group-title="Anak", DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1920px-Disney_Junior.svg.png" group-title="Cartoon Network", DISNEY JUNIOR
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1280px-2019_Disney_Channel_logo.svg.png" group-title="Anak", SALURAN DISNEY
