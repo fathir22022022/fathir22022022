@@ -2034,11 +2034,8 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="kidcoba" tvg-logo="http://kamiselaluada.com/img/kidstv.png" group-title="Cartoon Network",Kids tv
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-###########
- 
- ​#EXTM3U url-tvg="http://dusktill.masuk.web.id/epg.xml" x-tvg-url="http://dusktill.masuk.web.id/epg.xml" 
-  
- ​#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="",TVONE 
+##2021##
+​#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="",TVONE 
  ​https://stream-12.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybNFsayNxu1SclAy5qb4dPhA)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1 
   
  ​#EXTINF:-1 tvg-id="ksa.tvone" tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="",TVONE 2 
